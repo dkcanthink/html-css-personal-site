@@ -1,0 +1,57 @@
+.headerbg {
+    height: 500px;
+    width: 100%;
+    background-image: url(assets/headerwallpaper1.jpg);
+}
+
+.headertitlecontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    font-family: 'Nanum Gothic Coding', monospace;
+    text-align: center;
+}
+
+.changefont {
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+.skillicon {
+    margin-right: 10px;
+}
+
+.cert-size {
+    text-align: center;
+}
+
+.mx-lg-auto {
+    margin-right: 0!important;
+    margin-left: auto!important;
+}
+
+/* .row>* {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top: var(--bs-gutter-y);
+} */
+
+/* .carousel {
+    height: 500px;
+} */
+
+
+/* a {
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 2rem;
+    text-decoration: none;
+    color: black;
+    font-weight: 100;
+}
+
+a:hover {text-decoration: underline;} */
+
+
