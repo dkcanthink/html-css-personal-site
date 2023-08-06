@@ -4,6 +4,10 @@
     background-image: url(assets/headerwallpaper1.jpg);
 }
 
+body {
+    background-color: #F4FDFF;
+}
+
 .headertitlecontainer {
     display: flex;
     justify-content: center;
@@ -28,6 +32,11 @@
 .mx-lg-auto {
     margin-right: 0!important;
     margin-left: auto!important;
+}
+
+.nttimage {
+    width: 125px;
+    height: 100px;
 }
 
 /* .row>* {
